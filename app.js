@@ -109,5 +109,6 @@ async function generarQuotes() {
     div.appendChild(img);
     div.appendChild(p);
     dondeIncrustar.appendChild(div);
+    numeroFrases.value = "";
   });
 }
