@@ -101,7 +101,7 @@ p {
   font-size: large;
 }
 
-@media (max-width: 976px) {
+@media screen and (max-width: 976px) {
   input {
     width: 110px;
   }
