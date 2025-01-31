@@ -21,7 +21,6 @@ async function generarQuotes() {
   dondeIncrustar.innerHTML = "";
   const datos = await generarFrases();
   dondeIncrustar.style = "flex";
-  console.log(datos);
   datos.forEach((item) => {
     let quote = item.quote;
     let author = item.author;
