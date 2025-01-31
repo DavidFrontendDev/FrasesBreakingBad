@@ -1,3 +1,14 @@
+@media screen and (max-width: 976px) {
+  input {
+    width: 110px;
+  }
+  h2 {
+    font-size: 1.3em;
+  }
+  section {
+    width: 30%;
+  }
+}
 html,
 body {
   height: 100%;
@@ -99,16 +110,4 @@ button:active {
 }
 p {
   font-size: large;
-}
-
-@media screen and (max-width: 976px) {
-  input {
-    width: 110px;
-  }
-  h2 {
-    font-size: 1.3em;
-  }
-  section {
-    width: 30%;
-  }
 }

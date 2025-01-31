@@ -17,8 +17,8 @@
 
 ## Tablet:
 
-[![Imagen](https://i.imgur.com/SJKwhUk.png)](https://davidfrontenddev.github.io/FrasesBreakingBad/)
+[![Imagen](https://i.imgur.com/yTJglwe.png)](https://davidfrontenddev.github.io/FrasesBreakingBad/)
 
 ## Movil:
 
-[![Imagen](https://i.imgur.com/FL3ZPNc.png)](https://davidfrontenddev.github.io/FrasesBreakingBad/)
+[![Imagen](https://i.imgur.com/ir040Ud.png)](https://davidfrontenddev.github.io/FrasesBreakingBad/)
