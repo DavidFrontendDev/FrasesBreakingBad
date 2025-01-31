@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Breaking Bad Quotes</title>
+    <link href="style.css" rel="stylesheet" />
+    <link
+      rel="icon"
+      href="https://upload.wikimedia.org/wikipedia/commons/7/77/Breaking_Bad_logo.svg"
+      type="image/png"
+    />
+    <script src="app.js" defer></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <main>
+      <section>
+        <div class="img-container">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/7/77/Breaking_Bad_logo.svg"
+          />
+        </div>
+        <h2>Breaking Bad Quotes</h2>
+        <input
+          type="number"
+          placeholder="How many quotes do you want to generate"
+          id="quotesInput"
+        />
+        <button type="submit" onclick="generarQuotes()">Generate</button>
+      </section>
+      <div class="quotes"></div>
+    </main>
+  </body>
+</html>
